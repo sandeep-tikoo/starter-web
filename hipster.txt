@@ -3,3 +3,4 @@ dshfsjk flsfhd asjkld sa alskdj
 added this test in new branch mynewbranch
 
 Adding test while im checked out to mynewbranch, but will try to push to origin/master to see what happens
+ testing markup in commit text - faiz requested
